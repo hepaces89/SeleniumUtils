@@ -1,0 +1,2 @@
+//http://groovy.codehaus.org/Grape
+groovy.grape.Grape.grab([group:'org.seleniumhq.selenium', module:'selenium-java', version:'2.45.0'])
