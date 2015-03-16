@@ -1,2 +1,2 @@
 # SeleniumUtils
-An algamation of various selenium snippets that I have found on line
+A collection of selenium snippets that I have found useful.
