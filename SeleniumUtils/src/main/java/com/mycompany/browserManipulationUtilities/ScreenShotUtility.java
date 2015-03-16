@@ -1,4 +1,4 @@
-package com.mycompany.seleniumwebdriverutilities2;
+package com.mycompany.browserManipulationUtilities;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

@@ -3,8 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.seleniumwebdriverutilities2;
+package com.mycompany.browserManipulationUtilities;
 
+import com.mycompany.browserManipulationUtilities.ScreenShotUtility;
+import com.mycompany.browserManipulationUtilities.BrowserScrollUtility;
 import junit.framework.Assert;
 import org.junit.After;
 import org.junit.AfterClass;
